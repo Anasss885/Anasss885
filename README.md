@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://www.codewars.com/users/Anas%20Alaa" rel="nofollow">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codewars.svg"  height="30" width="40" style="max-width: 100%;">
+  <img align="left" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png"  height="30" width="40" style="max-width: 100%;">
   </a>
 
 
