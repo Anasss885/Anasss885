@@ -1,5 +1,8 @@
 ### Hi there 👋
-<h3>I'm working on developing my skills through solving many problems on Critical CS Basics And approcaches and also by working on different Tech projects</h3>
+
+<h3>I’m a Backend Software Engineer focused on Java & Spring Boot.  
+I’m improving my skills by solving CS problems and building practical projects.  
+Check out my repositories for projects on REST APIs, databases, and problem solving.</h3>
 
 
 
