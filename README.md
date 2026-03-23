@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>I’m a Backend Software Engineer focused on Java & Spring Boot.  
+<h3>I’m a Software Engineer specializing in integration engineering — connecting enterprise systems through low-code tools, ESB middleware, REST/SOAP services, and message-based architectures. Currently working on banking integrations at Crédit Agricole Egypt via ASSET Technology Group.  
 I’m improving my skills by solving CS problems and building practical projects.  
 Check out my repositories for projects on REST APIs, databases, and problem solving.</h3>
 
